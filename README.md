@@ -9,8 +9,8 @@
   <samp>
     🧑‍💻 Sou desenvolvedor de sistemas Java | Spring Boot | JSF | SQL | Git | JasperReports. Graduado em Sistemas de Informação.<br>
     🎨 Sempre em busca de aprendizado e inovação, utilizando a criatividade para resolver problemas de forma eficiente.<br>
-    🚀 Atualmente, estou me aprofundando em backend com Java, Spring Boot e PostgreSQL, buscando aprimorar minhas habilidades e evoluir.<br>
-    🌱 Nos meus momentos livres, gosto de assistir séries, ouvir música, tocar violão, aproveitar a praia e passar tempo com a família.<br>
+    🚀 Atualmente, estou me aprofundando em backend com Java, Spring Boot e PostgreSQL, buscando aprimorar minhas habilidades e evoluir continuamente.<br>
+    🌱 Nos momentos livres, gosto de assistir séries, ouvir música, tocar violão, ir a praia e passar tempo com a família.<br>
   </samp>
 </p>
 <br>
